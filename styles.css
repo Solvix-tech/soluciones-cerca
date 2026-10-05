@@ -281,6 +281,8 @@ a.servicio-mas:hover { text-decoration: underline; }
 .contacto-datos { display: flex; flex-direction: column; gap: 22px; min-width: 0; }
 .contacto-datos dl { margin: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
 .contacto-datos dt { font-size: 12px; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; color: #94A3B8; }
+.contacto-datos .dato-ancho { grid-column: 1 / -1; }
+.contacto-datos dd a { text-decoration: none; overflow-wrap: anywhere; }
 .contacto-datos dd { margin: 4px 0 0; font-family: var(--f-display); font-size: 19px; font-weight: 700; }
 
 /* Pie */

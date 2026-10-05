@@ -1,7 +1,7 @@
 // Número de WhatsApp Business: solo números, con código de país y sin el 15.
 // Ejemplo: "5493855123456". Mientras esté vacío, los botones llevan a la sección de contacto.
-const WHATSAPP = "";
-const NUMERO_VISIBLE = ""; // Ejemplo: "385 512-3456"
+const WHATSAPP = "5493856410283";
+const NUMERO_VISIBLE = "385 641-0283"; // Ejemplo: "385 512-3456"
 const MENSAJE_GENERAL = "Hola, vi la página de Soluciones Cerca y quiero hacer una consulta.";
 
 // Opiniones: se arman desde testimonios.js
